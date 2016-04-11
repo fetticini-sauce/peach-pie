@@ -179,8 +179,8 @@ hr.small {
     margin-bottom: 30px;
 }
 
-/* Callout */
-
+/* Callout, webkit is to display on all browsers */
+/*put in web height of image*/
 .callout {
     display: table;
     width: 100%;
